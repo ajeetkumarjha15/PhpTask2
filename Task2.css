@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row1{
+    float: left;
+    width: 33.3%;
+    padding: 10px;
+    height: 300px; 
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+    background-color: greenyellow;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    background-color: grey;
+}
+
+img{
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    width: 200px;
+    height: 200px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+/* .row1:after {
+    content: "";
+    clear: both;
+  } */
